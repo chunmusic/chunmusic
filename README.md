@@ -49,14 +49,12 @@
 <img align="left" alt="chunmusic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chunmusic&show_icons=true&hide_border=true" />
 
 <br />
+<br />
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunmusic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
----
 
 
 [youtube]: https://youtube.com/chunzps

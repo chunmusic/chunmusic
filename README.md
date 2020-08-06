@@ -1,4 +1,4 @@
-### Hi there, I'm Pongsakorn Songsuroj. [codeSTACKr][website] 👋
+### Hi there, I'm Pongsakorn Songsuroj. [ChunzPS Channel][youtube] 👋
 
 - 🔭 I’m currently working on a [Aerial Robotics Project]
 - 🌱 I’m currently learning everything 🤣

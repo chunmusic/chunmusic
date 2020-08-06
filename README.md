@@ -42,7 +42,6 @@
 - [Play Video on Google Nest Hub using Node-Red](https://www.youtube.com/watch?v=L4tTMAKKq_I)
 <!-- YOUTUBE:END -->
 
-<br />
 
 ---
 

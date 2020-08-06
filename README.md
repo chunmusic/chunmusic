@@ -26,5 +26,8 @@
 
 <img align="left" alt="chunmusic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chunmusic&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunmusic)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [youtube]: https://youtube.com/chunzps
 [linkedin]: https://www.linkedin.com/in/pongsakorn-songsuroj-464b7854/

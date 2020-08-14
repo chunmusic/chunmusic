@@ -35,11 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tello Drone - Face Tracking](https://www.youtube.com/watch?v=-HoTuMN1f7s)
 - [Setup RAK811 LoRaWAN Module](https://www.youtube.com/watch?v=dC5qsv1Oq5g)
 - [iOS Application linked with S7 Siemens PLC (TIA13)](https://www.youtube.com/watch?v=e_DtxT1Eq1c)
 - [Play Local Video on Google Nest Hub using Node-Red](https://www.youtube.com/watch?v=U_BMwKxpQH0)
 - [Play Local Mp3 Song on Google Nest Hub using Node-Red](https://www.youtube.com/watch?v=XoSo9Mltlpc)
-- [Play Video on Google Nest Hub using Node-Red](https://www.youtube.com/watch?v=L4tTMAKKq_I)
 <!-- YOUTUBE:END -->
 
 

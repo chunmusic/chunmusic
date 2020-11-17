@@ -35,11 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [velodyne](https://www.youtube.com/watch?v=Bll0u2ESFMA)
 - [Veloview - Installation guide on Linux](https://www.youtube.com/watch?v=gmyrmt45pQg)
 - [(Tutorial) ROS on Docker - Publisher & Subscriber](https://www.youtube.com/watch?v=IDGtmcydio0)
 - [Tello Drone - Face Tracking](https://www.youtube.com/watch?v=-HoTuMN1f7s)
 - [Setup RAK811 LoRaWAN Module](https://www.youtube.com/watch?v=dC5qsv1Oq5g)
-- [iOS Application linked with S7 Siemens PLC (TIA13)](https://www.youtube.com/watch?v=e_DtxT1Eq1c)
 <!-- YOUTUBE:END -->
 
 

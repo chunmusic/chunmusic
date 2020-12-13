@@ -35,11 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [VTOL - PX4 Sending command via MAVROS](https://www.youtube.com/watch?v=YK0vlRleUD4)
 - [PX4 QGroundControl - Video Streaming on Typhoon H480](https://www.youtube.com/watch?v=L-2SSg7SBDs)
 - [Velodyne 3D LiDAR - Installation Guide on Linux](https://www.youtube.com/watch?v=Bll0u2ESFMA)
 - [Veloview - Installation guide on Linux](https://www.youtube.com/watch?v=gmyrmt45pQg)
 - [(Tutorial) ROS on Docker - Publisher & Subscriber](https://www.youtube.com/watch?v=IDGtmcydio0)
-- [Tello Drone - Face Tracking](https://www.youtube.com/watch?v=-HoTuMN1f7s)
 <!-- YOUTUBE:END -->
 
 

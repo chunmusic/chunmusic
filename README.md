@@ -10,7 +10,7 @@
 
 [<img align="left" alt="chunmusic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="chunmusic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="chunmusic | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 📺 Latest Medium Articles
+### 📕 Latest Medium Articles
 <!-- MEDIUM:START -->
 - [Autoware Installation Guideline](https://medium.com/@chuntezuka/autoware-installation-guideline-b1293e612528?source=rss-dc1ee717860b------2)
 <!-- MEDIUM:END -->

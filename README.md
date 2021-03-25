@@ -60,3 +60,4 @@
 
 [youtube]: https://youtube.com/chunzps
 [linkedin]: https://www.linkedin.com/in/pongsakorn-songsuroj-464b7854/
+[medium]: https://medium.com/@chuntezuka

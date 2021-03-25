@@ -42,6 +42,11 @@
 - [Velodyne 3D LiDAR - Installation Guide on Linux](https://www.youtube.com/watch?v=Bll0u2ESFMA)
 <!-- YOUTUBE:END -->
 
+---
+
+### 📺 Latest Medium Articles
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ---
 

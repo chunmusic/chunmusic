@@ -35,11 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Autoware Installation Guide](https://www.youtube.com/watch?v=Fi1QJOORhcQ)
 - [ROS - NodeRed - Publisher and Subscriber](https://www.youtube.com/watch?v=R_ENgWZIgRQ)
 - [Propeller Direction to UAV Movement](https://www.youtube.com/watch?v=EHPR-MPb9Po)
 - [VTOL - PX4 Sending command via MAVROS](https://www.youtube.com/watch?v=YK0vlRleUD4)
 - [PX4 QGroundControl - Video Streaming on Typhoon H480](https://www.youtube.com/watch?v=L-2SSg7SBDs)
-- [Velodyne 3D LiDAR - Installation Guide on Linux](https://www.youtube.com/watch?v=Bll0u2ESFMA)
 <!-- YOUTUBE:END -->
 
 ---

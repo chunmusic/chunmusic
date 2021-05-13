@@ -35,11 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [IRIS Rplidar - PX4 SITL Gazebo + RViz](https://www.youtube.com/watch?v=g8wDaxcKl2g)
 - [Autoware Installation Guide](https://www.youtube.com/watch?v=Fi1QJOORhcQ)
 - [ROS - NodeRed - Publisher and Subscriber](https://www.youtube.com/watch?v=R_ENgWZIgRQ)
 - [Propeller Direction to UAV Movement](https://www.youtube.com/watch?v=EHPR-MPb9Po)
 - [VTOL - PX4 Sending command via MAVROS](https://www.youtube.com/watch?v=YK0vlRleUD4)
-- [PX4 QGroundControl - Video Streaming on Typhoon H480](https://www.youtube.com/watch?v=L-2SSg7SBDs)
 <!-- YOUTUBE:END -->
 
 ---

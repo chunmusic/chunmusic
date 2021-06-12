@@ -46,6 +46,7 @@
 
 ### 📕 Latest Medium Articles
 <!-- MEDIUM:START -->
+- [Fixed: Cannot upgrade pip in Python virtual environment](https://chuntezuka.medium.com/fixed-cannot-upgrade-pip-in-python-virtual-environment-c231830aca8b?source=rss-dc1ee717860b------2)
 - [TensorFlow 1.15 Installation with GPU Support](https://chuntezuka.medium.com/tensorflow-1-15-installation-with-gpu-support-b8dd9ccb3c2d?source=rss-dc1ee717860b------2)
 - [Sending a Custom Message from MAVROS to PX4](https://chuntezuka.medium.com/sending-a-custom-message-from-mavros-to-px4-updated-17-05-2021-a87b4b6aeb77?source=rss-dc1ee717860b------2)
 - [Autoware Installation Guideline](https://chuntezuka.medium.com/autoware-installation-guideline-b1293e612528?source=rss-dc1ee717860b------2)

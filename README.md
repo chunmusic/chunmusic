@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sending Custom Message from MAVROS to PX4](https://www.youtube.com/watch?v=S9TOyIH570U)
 - [PX4 Offboard Control with ROS2](https://www.youtube.com/watch?v=GxI5Ny1fyZc)
 - [PX4 MicroRTPS with ROS2](https://www.youtube.com/watch?v=d54nu1BeS4c)
 - [IRIS Rplidar - PX4 SITL Gazebo + RViz](https://www.youtube.com/watch?v=g8wDaxcKl2g)
 - [Autoware Installation Guide](https://www.youtube.com/watch?v=Fi1QJOORhcQ)
-- [ROS - NodeRed - Publisher and Subscriber](https://www.youtube.com/watch?v=R_ENgWZIgRQ)
 <!-- YOUTUBE:END -->
 
 ---

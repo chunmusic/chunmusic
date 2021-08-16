@@ -42,6 +42,7 @@
 
 ### 📕 Latest Medium Articles
 <!-- MEDIUM:START -->
+- [Install CUDA 11.0 and cuDNN 8.0.5 on Ubuntu 18.04](https://chuntezuka.medium.com/install-cuda-11-0-and-cudnn-8-0-5-on-ubuntu-18-04-77d644d6796a?source=rss-dc1ee717860b------2)
 - [Fixed: Cannot upgrade pip in Python virtual environment](https://chuntezuka.medium.com/fixed-cannot-upgrade-pip-in-python-virtual-environment-c231830aca8b?source=rss-dc1ee717860b------2)
 - [TensorFlow 1.15 Installation with GPU Support](https://chuntezuka.medium.com/tensorflow-1-15-installation-with-gpu-support-b8dd9ccb3c2d?source=rss-dc1ee717860b------2)
 - [Sending a Custom Message from MAVROS to PX4](https://chuntezuka.medium.com/sending-a-custom-message-from-mavros-to-px4-updated-17-05-2021-a87b4b6aeb77?source=rss-dc1ee717860b------2)

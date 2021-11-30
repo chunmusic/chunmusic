@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [PX4 Vision with VICON MoCAP - Position Mode](https://www.youtube.com/watch?v=Qky1jTXvR6w)
 - [PX4 Visual Inertial Odometry &lpar;VIO&rpar; with Intel Realsense T265 - Indoor Position Mode #2](https://www.youtube.com/watch?v=oBiaIm7DnjM)
 - [PX4 Visual Inertial Odometry &lpar;VIO&rpar; with Intel Realsense T265 - Indoor Position Mode #1](https://www.youtube.com/watch?v=OD5g0C41e-4)
 - [Sending Custom Message from MAVROS to PX4](https://www.youtube.com/watch?v=S9TOyIH570U)
 - [PX4 Offboard Control with ROS2](https://www.youtube.com/watch?v=GxI5Ny1fyZc)
-- [PX4 MicroRTPS with ROS2](https://www.youtube.com/watch?v=d54nu1BeS4c)
 <!-- YOUTUBE:END -->
 
 ---

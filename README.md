@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [PX4 Development Environment Setup for Mac M1 &lpar;Parallel&rpar;](https://www.youtube.com/watch?v=YHX5QqF6-Nw)
-- [PX4 Vision with VICON MoCAP - Offboard Mode](https://www.youtube.com/watch?v=PFwboakTU00)
-- [PX4 Vision with VICON MoCAP - Position Mode](https://www.youtube.com/watch?v=Qky1jTXvR6w)
-- [PX4 Visual Inertial Odometry &lpar;VIO&rpar; with Intel Realsense T265 - Indoor Position Mode #2](https://www.youtube.com/watch?v=oBiaIm7DnjM)
-- [PX4 Visual Inertial Odometry &lpar;VIO&rpar; with Intel Realsense T265 - Indoor Position Mode #1](https://www.youtube.com/watch?v=OD5g0C41e-4)
+- [Siemens TIA - Kepware - IoT Datashare via OPC UA](https://www.youtube.com/watch?v=a9uU7FN9SLc)
+- [Kepware  - IoT Datashare via OPC UA](https://www.youtube.com/watch?v=4dy5alRNPEA)
+- [GX Works2 - Kepware - IoT Data Share via OPC DA](https://www.youtube.com/watch?v=bzComkGnOr0)
+- [Kepware - IoT Data Share via OPC DA](https://www.youtube.com/watch?v=ZvW9-MvX-A8)
+- [IOT Data Share &lpar;OPC UA&rpar; linked with GX Works 2 &amp; Kepware](https://www.youtube.com/watch?v=w_m8t63qMF4)
 <!-- YOUTUBE:END -->
 
 ---

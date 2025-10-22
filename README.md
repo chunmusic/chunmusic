@@ -42,11 +42,11 @@
 
 ### 📕 Latest Medium Articles
 <!-- MEDIUM:START -->
-- [Install CUDA 11.0 and cuDNN 8.0.5 on Ubuntu 18.04](https://chuntezuka.medium.com/install-cuda-11-0-and-cudnn-8-0-5-on-ubuntu-18-04-77d644d6796a?source=rss-dc1ee717860b------2)
-- [Fixed: Cannot upgrade pip in Python virtual environment](https://chuntezuka.medium.com/fixed-cannot-upgrade-pip-in-python-virtual-environment-c231830aca8b?source=rss-dc1ee717860b------2)
-- [TensorFlow 1.15 Installation with GPU Support](https://chuntezuka.medium.com/tensorflow-1-15-installation-with-gpu-support-b8dd9ccb3c2d?source=rss-dc1ee717860b------2)
-- [Sending a Custom Message from MAVROS to PX4](https://chuntezuka.medium.com/sending-a-custom-message-from-mavros-to-px4-updated-17-05-2021-a87b4b6aeb77?source=rss-dc1ee717860b------2)
-- [Autoware Installation Guideline](https://chuntezuka.medium.com/autoware-installation-guideline-b1293e612528?source=rss-dc1ee717860b------2)
+- [reCAPTCHA Integration with Cloud Armor](https://chuntezuka.medium.com/recaptcha-integration-with-cloud-armor-fced2f033f99?source=rss-dc1ee717860b------2)
+- [Ubuntu vs Fedora vs Debian in 2024: Choosing Your Ideal Linux](https://chuntezuka.medium.com/ubuntu-vs-fedora-vs-debian-in-2024-choosing-your-ideal-linux-2b8ade9c00be?source=rss-dc1ee717860b------2)
+- [Federated Query in BigQuery with Cloud SQL](https://chuntezuka.medium.com/federated-query-in-bigquery-with-cloud-sql-e25d7c6f8b83?source=rss-dc1ee717860b------2)
+- [Migrate On-Premise PostgreSQL to AWS RDS using Database Migration Service &lpar;DMS&rpar;](https://chuntezuka.medium.com/migrate-on-premise-postgresql-to-aws-rds-using-database-migration-service-dms-1388a4b3ba76?source=rss-dc1ee717860b------2)
+- [AWS Database Migration Service](https://chuntezuka.medium.com/aws-database-migration-service-e223e96d5647?source=rss-dc1ee717860b------2)
 <!-- MEDIUM:END -->
 
 ---
